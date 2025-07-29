@@ -17,7 +17,7 @@ Coletar, limpar e visualizar dados históricos de ações via Yahoo Finance. Ent
 3. Gráfico de preço de fechamento com annotations
 
 ## 📈 Demonstração
-![performance_plot](images/performance_plot.png)
+![performance_plot](images/Gráfico de Preço de Fechamento da Ação MUFG - Mensal.png)
 
 ## 📝 Como Rodar
 ```bash
