@@ -22,7 +22,7 @@ Coletar, limpar e visualizar dados históricos de ações via Yahoo Finance. Ent
 
 ## 📝 Como Rodar
 ```bash
-git clone https://github.com/SEU_USUARIO/projeto-01-stock-analysis.git
+git clone https://github.com/Fabio-Miguel-Naumes/projeto-01-stock-analysis.git
 cd projeto-01-stock-analysis
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
